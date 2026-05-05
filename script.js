@@ -7,7 +7,7 @@ window.addEventListener("load", loadImages);
 function loadImages() {
   gallery.innerHTML = "";
 
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 3; i++) {
     const img = document.createElement("img");
 
     const randomId = Math.floor(Math.random() * 1000);
