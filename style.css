@@ -44,7 +44,7 @@ button {
 
 button:hover {
   transform: scale(1.05);
-  background: linear-gradient(140deg, sienna, white);
+  background: linear-gradient(140deg, sienna, sandybrown);
 }
 
 /* Gallery grid */
