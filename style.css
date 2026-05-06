@@ -37,7 +37,7 @@ button {
   border: none;
   border-radius: 20px;
   background: sienna;
-  color: white;
+  color: black;
   cursor: pointer;
   transition: 0.3s;
 }
